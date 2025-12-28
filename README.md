@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | React & Next.js Expert | Node.js & NestJS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/randamagdy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rm-a61345149)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randamagdy13891@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Dammam%2C%20Saudi%20Arabia-green?style=for-the-badge)]()
 
