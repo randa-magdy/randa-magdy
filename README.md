@@ -62,10 +62,10 @@ Scalable backend system designed to manage **millions of orders**, supporting fo
 ---
 
 #### ✈️ [Booking Platform - Flights & Hotels](https://github.com/eldoghry/travel-booking-api)
-Enterprise-grade booking platform built to support **millions of users**, enabling complex flight and hotel searches, reservations, and integrations with external providers.
+Enterprise-grade booking platform built to support **millions of users**, enabling complex flight and hotel searches, reservations, and integrations with external providers. Uses a **hybrid architecture** combining modular monolithic structure with microservices patterns.
 
-**Tech Stack:** NestJS, TypeScript, Microservices, PostgreSQL, Redis, Docker, AWS, RabbitMQ  
-**Highlights:** Microservices Architecture, Load Testing with JMeter, CI/CD Pipeline, ELK Stack
+**Tech Stack:** NestJS, TypeScript, Hybrid Architecture (Modular Monolith + Microservices), PostgreSQL, Redis, Docker, AWS, RabbitMQ  
+**Highlights:** Separate Flights & Hotels modules consumed via APIs, Load Testing with JMeter, CI/CD Pipeline, ELK Stack
 
 ---
 
