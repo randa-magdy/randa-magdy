@@ -78,14 +78,6 @@ Built multiple production-ready applications including:
 
 ---
 
-### 📊 GitHub Stats
-
-![Randa's GitHub stats](https://github-readme-stats.vercel.app/api?username=randa-magdy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randa-magdy&layout=compact&theme=radical)
-
----
-
 ### 🎯 What I'm Working On
 
 - 🔨 Building scalable backend systems with **NestJS** and **Microservices**
