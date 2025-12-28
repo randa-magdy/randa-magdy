@@ -83,7 +83,6 @@ Built multiple production-ready applications including:
 - 🔨 Building scalable backend systems with **NestJS** and **Microservices**
 - 📚 Deepening knowledge in **System Design** and **Database Optimization**
 - 🧪 Exploring **Load Testing** and **Performance Optimization**
-- 🐳 Mastering **Docker** and **Container Orchestration**
 
 ---
 
@@ -91,14 +90,14 @@ Built multiple production-ready applications including:
 
 - 🏢 **5+ years** as Frontend Developer (React, Next.js, TypeScript)
 - 🖥️ **1 year** of Backend Development (Node.js, Express.js, NestJS)
-- 🌍 Based in **Dammam, Saudi Arabia** | Open to **remote work**
+- 🌍 Based in **Dammam, Saudi Arabia** | Open to **onsite**, **hybrid**, and **remote** opportunities
 - 🎓 **Bachelor's in Computer Science** - Cairo University
 
 ---
 
 ### 📫 How to Reach Me
 
-- 💼 LinkedIn: [linkedin.com/in/randamagdy](https://linkedin.com/in/randamagdy)
+- 💼 LinkedIn: [linkedin.com/in/randamagdy](https://linkedin.com/in/rm-a61345149)
 - 📧 Email: randamagdy13891@gmail.com
 - 📍 Location: Dammam, Saudi Arabia
 
