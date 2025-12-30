@@ -97,7 +97,7 @@ Built multiple production-ready applications including:
 
 ### 📫 How to Reach Me
 
-- 💼 LinkedIn: [linkedin.com/in/randamagdy](https://linkedin.com/in/rm-a61345149)
+- 💼 LinkedIn: [linkedin.com/in/rm-a61345149](https://linkedin.com/in/rm-a61345149)
 - 📧 Email: randamagdy13891@gmail.com
 - 📍 Location: Dammam, Saudi Arabia
 
